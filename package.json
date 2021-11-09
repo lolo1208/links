@@ -1,0 +1,11 @@
+{
+  "name": "links",
+  "version": "1.0.0",
+  "dependencies": {
+    "clean-css": "^5.2.2",
+    "fs-extra": "^10.0.0",
+    "html-minifier": "^4.0.0",
+    "request": "^2.88.2",
+    "yaml": "^1.10.2"
+  }
+}
