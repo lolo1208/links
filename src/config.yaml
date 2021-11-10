@@ -25,8 +25,9 @@ links:
   - Node / JS / Web:
       - ICON: javascript.svg
       - NodeJS API: http://nodejs.cn/api
-      - fs-extra: https://juejin.cn/post/6844903641594216455
       - ECMAScript 6: https://es6.ruanyifeng.com
+      - fs-extra: https://juejin.cn/post/6844903641594216455
+      - cheerio: https://github.com/cheeriojs/cheerio
       - VUE: https://cn.vuejs.org/v2/guide/index.html
       - Electron: https://wizardforcel.gitbooks.io/electron-doc/content/
       - Element: https://element.eleme.cn/#/zh-CN/component/installation
@@ -34,7 +35,6 @@ links:
       - React: https://zh-hans.reactjs.org/docs/getting-started.html
       - Material-UI: https://mui.com/zh/getting-started/usage/
       - Webpack: https://fakefish.github.io/react-webpack-cookbook/Introduction-to-Webpack.html
-      - cheerio: https://github.com/cheeriojs/cheerio
 
   - C# / C / C++:
       - ICON: cpp.svg
