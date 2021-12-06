@@ -27,14 +27,16 @@ links:
       - NodeJS API: http://nodejs.cn/api
       - ECMAScript 6: https://es6.ruanyifeng.com
       - fs-extra: https://juejin.cn/post/6844903641594216455
+      - Moment.js: http://momentjs.cn/docs/
       - cheerio: https://github.com/cheeriojs/cheerio
-      - VUE: https://cn.vuejs.org/v2/guide/index.html
       - Electron: https://wizardforcel.gitbooks.io/electron-doc/content/
+      - Webpack: https://fakefish.github.io/react-webpack-cookbook/Introduction-to-Webpack.html
+      - VUE: https://cn.vuejs.org/v2/guide/index.html
       - Element: https://element.eleme.cn/#/zh-CN/component/installation
       - Ant Design Vue: https://next.antdv.com/components/overview-cn
       - React: https://zh-hans.reactjs.org/docs/getting-started.html
       - Material-UI: https://mui.com/zh/getting-started/usage/
-      - Webpack: https://fakefish.github.io/react-webpack-cookbook/Introduction-to-Webpack.html
+      - Semi Design: https://semi.design/zh-CN/start/overview
 
   - C# / C / C++:
       - ICON: cpp.svg
