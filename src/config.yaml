@@ -14,6 +14,7 @@ links:
       - ICON: unity.svg
       - Scripting API: https://docs.unity3d.com/2020.3/Documentation/ScriptReference/index.html
       - YAML Class ID Reference: https://docs.unity3d.com/2020.3/Documentation/Manual/ClassIDReference.html
+      - link.xml Assemblies: https://docs.unity3d.com/2020.3/Documentation/ScriptReference/UnityEngine.AIModule.html
       - Define Directives: https://docs.unity3d.com/Manual/PlatformDependentCompilation.html
       - http://dotween.demigiant.com/documentation.php
       - EmmyLua Doc: https://emmylua.github.io
@@ -89,7 +90,6 @@ links:
       - Google Fonts 中文版: https://www.font.im/
       - Pure.CSS: https://www.purecss.cn/
       - https://getmdl.io
-      - https://baidu.com
 
   - Online Tools:
       - ICON: toolbox.svg
