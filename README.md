@@ -15,7 +15,7 @@ cd links
 # Install dependencies
 npm install
 
-# Edit the config.yml
+# Edit config.yml
 open ./src/config.yml
 
 # Build
