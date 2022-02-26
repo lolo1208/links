@@ -30,7 +30,7 @@ open ./dest/index.html
 
 # Preview
 
-[https://lolo.link]()
+<https://lolo.link>
 
 ![](https://static.lolo.link/img/screenshots/lolo.link.jpg)
 
