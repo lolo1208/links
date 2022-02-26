@@ -1,6 +1,17 @@
 {
   "name": "links",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "description": "links, bookmarks, navigation page",
+  "author": "LOLO",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lolo1208/links.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lolo1208/links/issues"
+  },
+  "homepage": "https://github.com/lolo1208/links",
   "dependencies": {
     "clean-css": "^5.2.2",
     "fs-extra": "^10.0.0",
