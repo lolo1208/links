@@ -43,10 +43,10 @@ links:
   - CSS:
       - ICON: css.svg
       - Dont need JS: https://github.com/you-dont-need/You-Dont-Need-JavaScript/blob/master/README-zh_CN.md
-      - normalize.css: https://github.com/necolas/normalize.css
-      - water.css: https://github.com/kognise/water.css
-      - simple.css: https://github.com/kevquirk/simple.css
-      - sakura: https://github.com/oxalorg/sakura
+      - normalize.css: http://necolas.github.io/normalize.css/
+      - water.css: https://watercss.kognise.dev/
+      - simple.css: https://simplecss.org/
+      - sakura.css: https://oxal.org/projects/sakura/
 
   - C# / C / C++:
       - ICON: cpp.svg
