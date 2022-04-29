@@ -40,6 +40,14 @@ links:
       - Semi Design: https://semi.design/zh-CN/start/overview
       - Fluent UI: https://developer.microsoft.com/zh-CN/fluentui?fabricVer=8#/controls/web
 
+  - CSS:
+      - ICON: css.svg
+      - Dont need JS: https://github.com/you-dont-need/You-Dont-Need-JavaScript/blob/master/README-zh_CN.md
+      - normalize.css: https://github.com/necolas/normalize.css
+      - water.css: https://github.com/kognise/water.css
+      - simple.css: https://github.com/kevquirk/simple.css
+      - sakura: https://github.com/oxalorg/sakura
+
   - C# / C / C++:
       - ICON: cpp.svg
       - .NET API: https://docs.microsoft.com/zh-cn/dotnet/api/?view=netstandard-2.1
@@ -55,23 +63,28 @@ links:
 
   - NAS / VPS:
       - ICON: nas.svg
+      - Synology Archive Download: https://archive.synology.com/download
       - NameSilo: https://www.namesilo.com
       - Vultr: https://www.vultr.com
       - TencentCloud Lighthouse: https://cloud.tencent.com/product/lighthouse
       - 阿里云: https://www.aliyun.com/
-      - Synology Archive Download: https://archive.synology.com/download
-      - 射手网（伪）: https://assrt.net/
       - https://movie.douban.com/
       - https://www.themoviedb.org
+      - 射手网（伪）: https://assrt.net/
       - 阿里盘搜: https://upyunso3.com/
+      - https://aliyun.panpanr.com/
+      - 霸王龙压制组: https://t-rex.tzfile.com/
       - K-POP MP3: http://ilkpop.com/index.xhtml
       - My Free MP3: http://tool.liumingye.cn/music/?page=searchPage
       - 小白盘（MP3）: https://www.xiaobaipan.com/
-      - https://aliyun.panpanr.com/
-      - 霸王龙压制组: https://t-rex.tzfile.com/
-      - 云盘资源共享站: https://pan.3636360.com/
-      - 阿里云盘资源汇总: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=ppx5bp
+      - Soul Courier: https://soulcourier.com/index.php
       - 单机游戏: https://www.aliyundrive.com/s/F15T9aT6wXu
+
+  - Media Library:
+      - ICON: media-library.svg
+      - 阿里云盘资源汇总: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=ppx5bp
+      - 蓝胖子分享: https://www.aliyundrive.com/s/pS88CrCK7kN/folder/62470614a493a108aacb4e948c91a6394d5fa249
+      - 热播新剧/综艺: https://www.aliyundrive.com/s/jE6BkkqpVJF/folder/61aec388d6501b6bcebf4ac7b0fb3f420488d72e
       - 波巴·费特之书 S01: https://www.aliyundrive.com/s/P6gZejwPrdh/folder/61d576632239399a85da47da985cc32ea67c4c63
       - 1883 S01: https://www.aliyundrive.com/s/S6M74uHJCX8/folder/61e4db57f09a9ae991534c0ca3e230aa6247ee83
       - 亿万 S06: https://www.aliyundrive.com/s/fmrrANWUALc/folder/620e231254bd77e8388e420eb132538a8a022e54
@@ -84,8 +97,6 @@ links:
       - 东京罪恶 S01: https://www.aliyundrive.com/s/svSVaeBkhkB/folder/624f1bee76f304b4be154074b43a62bcd753c4f5
       - 风骚律师 S06: https://www.aliyundrive.com/s/nbUE3fUEVWu/folder/62629debf0e677630c5a4c20b8078db77974bf5f
       - Running Man 2021: https://www.aliyundrive.com/s/hhSsFGKfqu7/folder/614459785cdb698a5fd94d28ae3e1dc9ded8348e
-      - 热播新剧/综艺: https://www.aliyundrive.com/s/jE6BkkqpVJF/folder/61aec388d6501b6bcebf4ac7b0fb3f420488d72e
-      - 蓝胖子分享: https://www.aliyundrive.com/s/pS88CrCK7kN/folder/62470614a493a108aacb4e948c91a6394d5fa249
 
   - Resources:
       - ICON: resource.svg
