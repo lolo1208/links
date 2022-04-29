@@ -3,12 +3,12 @@ title: LOLO' LINK
 links:
   - Search Pages:
       - ICON: search.svg
-      - 有道词典: https://dict.youdao.com/
-      - https://translate.google.com
+      - 有道词典: https://dict.youdao.com
       - Google: https://google.com
       - stack overflow: https://stackoverflow.com
       - GitHub: https://github.com
       - V2EX: https://www.v2ex.com
+      - https://zh.wikipedia.org
 
   - Unity:
       - ICON: unity.svg
@@ -42,6 +42,9 @@ links:
 
   - CSS:
       - ICON: css.svg
+      - https://flukeout.github.io/
+      - https://cssgrid-generator.netlify.app/
+      - https://tobiasahlin.com/spinkit/
       - Dont need JS: https://github.com/you-dont-need/You-Dont-Need-JavaScript/blob/master/README-zh_CN.md
       - normalize.css: http://necolas.github.io/normalize.css/
       - water.css: https://watercss.kognise.dev/
@@ -121,19 +124,14 @@ links:
 
   - Bookmark:
       - ICON: bookmark.svg
+      - 书栈网: https://www.bookstack.cn
       - Unity Cracking: https://appnee.com/unity
       - Jetbrains Eval Reset: https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html
-      - https://zh.wikipedia.org
-      - 书栈网: https://www.bookstack.cn
-      - https://tobiasahlin.com/spinkit/
-      - https://flukeout.github.io/
-      - https://cssgrid-generator.netlify.app/
+      - Upgrading to Caddy 2: https://caddyserver.com/docs/v2-upgrade
+      - VPS 部署 Hugo: http://www.shashun.site/post/first/
 
   - Read Later:
       - ICON: book.svg
       - KCP Protocol: https://github.com/skywind3000/kcp
-      - VPS 部署 Hugo: http://www.shashun.site/post/first/
-      - Upgrading to Caddy 2: https://caddyserver.com/docs/v2-upgrade
       - 六边形网格: https://blog.csdn.net/icebergkevin/article/details/50173527
       - https://www.redblobgames.com/grids/hexagons/
-      - Emby Cracking: http://ilolita945.softether.net:5212/s/adhl?path=%2F
