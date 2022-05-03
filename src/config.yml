@@ -39,14 +39,18 @@ links:
       - Material-UI: https://mui.com/zh/getting-started/usage/
       - Semi Design: https://semi.design/zh-CN/start/overview
       - Fluent UI: https://developer.microsoft.com/zh-CN/fluentui?fabricVer=8#/controls/web
+      - MDUI: https://www.mdui.org/docs/
+      - https://getmdl.io
 
   - CSS:
       - ICON: css.svg
       - https://flukeout.github.io/
       - https://cssgrid-generator.netlify.app/
       - https://tobiasahlin.com/spinkit/
+      - CSS Inspiration: https://chokcoco.github.io/CSS-Inspiration/#/
       - Dont need JS: https://github.com/you-dont-need/You-Dont-Need-JavaScript/blob/master/README-zh_CN.md
       - normalize.css: http://necolas.github.io/normalize.css/
+      - pure.css: https://www.purecss.cn/
       - water.css: https://watercss.kognise.dev/
       - simple.css: https://simplecss.org/
       - sakura.css: https://oxal.org/projects/sakura/
@@ -110,8 +114,6 @@ links:
       - Material Icons Guide: https://developers.google.com/fonts/docs/material_icons
       - https://remixicon.com/
       - Google Fonts 中文版: https://www.font.im/
-      - Pure.CSS: https://www.purecss.cn/
-      - https://getmdl.io
       - https://www.mixamo.com/
       - Steam Workshop Download: http://steamworkshop.download/download/view/1767287078
 
