@@ -25,7 +25,7 @@ links:
 
   - Node / JS / Web:
       - ICON: javascript.svg
-      - NodeJS API: http://nodejs.cn/api
+      - NodeJS API: https://www.apiref.com/nodejs-zh/index.html
       - ECMAScript 6: https://es6.ruanyifeng.com
       - fs-extra: https://juejin.cn/post/6844903641594216455
       - Day.js: https://dayjs.gitee.io/docs/zh-CN/installation/installation
