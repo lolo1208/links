@@ -58,7 +58,7 @@ links:
       - simple.css: https://simplecss.org/
       - sakura.css: https://oxal.org/projects/sakura/
 
-  - C# / C / C++:
+  - C / C++ / C#:
       - ICON: cpp.svg
       - .NET API: https://docs.microsoft.com/zh-cn/dotnet/api/?view=netstandard-2.1
       - C++ 教程: https://www.runoob.com/cplusplus/cpp-environment-setup.html
@@ -94,7 +94,6 @@ links:
   - Media Library:
       - ICON: media-library.svg
       - 阿里云盘资源汇总: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=ppx5bp
-      - 失魂舍伍德 S01: https://www.aliyundrive.com/s/W5UVRthZGJu/folder/62df40c42f59cf2537174ae58cf8e112b73fd3f1
       - 龙之家族 S01: https://www.aliyundrive.com/s/xGWQEWGFCDu/folder/6301ce2a9d48194608444bc0839ecd0cd028264b
       - 黑话律师 S01: https://www.aliyundrive.com/s/sPr91tmwjf6/folder/62e3f4c08d9ceac3532545dfadffdf61c22a88c0
       - 真相捕捉 S02: https://www.aliyundrive.com/s/Lz98pB6DoLE/folder/6316eea4db99701002bf4f7d9bc70ab1b22f8fa6
@@ -121,6 +120,7 @@ links:
       - 压缩图像: https://www.iloveimg.com/zh-cn
       - Fotor 图像编辑/拼图: https://www.fotor.com/photo-editor-app/editor/basic
       - Figma: https://figma.com/
+      - Excalidraw: https://excalidraw.com/
       - 点点数据: https://app.diandian.com/rank/googleplay
       - 在线运行代码: https://c.runoob.com/compile/14/
       - 国内外测试端口: https://tcp.ping.pe/
@@ -131,6 +131,7 @@ links:
       - Unity Cracking: https://appnee.com/unity
       - MacWk: https://www.macwk.com/
       - Jetbrains Eval Reset: https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html
+      - Office PLUS: https://www.officeplus.cn/
       - Upgrading to Caddy 2: https://caddyserver.com/docs/v2-upgrade
       - VPS 部署 Hugo: http://www.shashun.site/post/first/
 
