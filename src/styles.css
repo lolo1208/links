@@ -9,6 +9,7 @@
 html, body {
     width: 100%;
     height: 100%;
+    overflow: hidden;
     font-family: -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
     font-size: 14px;
     background-color: #fff;
@@ -148,9 +149,7 @@ html, body {
 .link-container {
     margin-top: 15px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    /*grid-gap: 10px 15px;*/
-    /*grid-auto-rows: 50px;*/
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
 
 .link-item {
@@ -222,3 +221,38 @@ html, body {
     box-shadow: rgba(0, 0, 0, 0.14) 0 4px 20px 0, rgba(156, 39, 176, 0.4) 0 7px 10px -5px;
 }
 
+
+/**/
+
+@media screen and (max-width: 600px) {
+    .left {
+        width: 80px;
+    }
+
+    .page-title {
+        display: none;
+    }
+
+    .left-container {
+        margin: 15px;
+        height: calc(100% - 15px);
+    }
+
+    .nav-container {
+        width: 50px;
+        margin: 0;
+    }
+
+    .nav-text {
+        display: none;
+    }
+
+
+    .right {
+        left: 80px;
+    }
+
+    .link-container {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+}
