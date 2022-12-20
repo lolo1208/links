@@ -12,9 +12,9 @@ links:
 
   - Unity:
       - ICON: unity.svg
-      - Scripting API: https://docs.unity3d.com/cn/2020.3/ScriptReference/index.html
-      - YAML Class ID Reference: https://docs.unity3d.com/2020.3/Documentation/Manual/ClassIDReference.html
-      - link.xml Assemblies: https://docs.unity3d.com/2020.3/Documentation/ScriptReference/UnityEngine.AIModule.html
+      - Scripting API: https://docs.unity3d.com/cn/2021.3/ScriptReference/index.html
+      - YAML Class ID Reference: https://docs.unity3d.com/cn/current/Manual/ClassIDReference.html
+      - link.xml Assemblies: https://docs.unity3d.com/2021.3/Documentation/ScriptReference/UnityEngine.AIModule.html
       - Define Directives: https://docs.unity3d.com/Manual/PlatformDependentCompilation.html
       - http://dotween.demigiant.com/documentation.php
       - EmmyLua Doc: https://emmylua.github.io
