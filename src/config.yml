@@ -101,6 +101,7 @@ links:
       - 早间新闻 S03: https://www.aliyundrive.com/s/1bhLGnr6sfH/folder/650146ff9d0a2cacc5b946e9b7d01b9d3667f573
       - 乐队的夏天 S03: https://www.aliyundrive.com/s/NDwe5Hh9hBF/folder/64d606cc26980564da0446bb89f8b54eab919b54
       - 鹊刀门传奇: https://www.aliyundrive.com/s/96zvUxNHhzk/folder/64df3d7284cd65ac08b245fea9147f03b92a0ef2
+      - 数码宝贝: https://www.aliyundrive.com/s/462ayRfv6MX/folder/623d3bb44280799c6b84409db89d3c8d0f228b81
 
   - Resources:
       - ICON: resource.svg
@@ -134,8 +135,6 @@ links:
       - 在线运行代码: https://c.runoob.com/compile/14/
       - 国内外测试端口: https://tcp.ping.pe/
       - 企业信用信息公示: https://sh.gsxt.gov.cn/index.html
-      - FUT Web App: https://www.ea.com/fifa/ultimate-team/web-app/
-      - FUT - BIN: https://www.futbin.com/
 
   - Bookmark:
       - ICON: bookmark.svg
@@ -159,3 +158,4 @@ links:
       - https://www.redblobgames.com/grids/hexagons/
       - 移动游戏性能优化通用技法: https://www.cnblogs.com/timlly/p/10463467.html
       - Unity UGUI EventSystem 优化: https://networm.me/2019/10/06/unity-ugui-eventsystem-optimization/
+      - EasyPhoto: https://github.com/aigc-apps/sd-webui-EasyPhoto/blob/main/README_zh-CN.md
