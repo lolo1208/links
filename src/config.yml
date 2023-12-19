@@ -10,18 +10,12 @@ links:
       - V2EX: https://www.v2ex.com
       - https://zh.wikipedia.org
 
-  - Unity:
-      - ICON: unity.svg
-      - Scripting API: https://docs.unity3d.com/cn/2021.3/ScriptReference/index.html
-      - YAML Class ID Reference: https://docs.unity3d.com/cn/current/Manual/ClassIDReference.html
-      - link.xml Assemblies: https://docs.unity3d.com/2021.3/Documentation/ScriptReference/UnityEngine.AIModule.html
-      - Define Directives: https://docs.unity3d.com/Manual/PlatformDependentCompilation.html
-      - http://dotween.demigiant.com/documentation.php
-      - EmmyLua Doc: https://emmylua.github.io
-      - Unity Download Archive: https://unity3d.com/get-unity/download/archive
-      - https://www.uwa4d.com
-      - Unity Editor Icons: https://gist.github.com/masa795/5797164
-      - Android Support Code: https://android.googlesource.com/platform/frameworks/support/+/79398eaefea45e61d839cf4e0534f0eafee70a09/v4/java/android/support/v4
+  - AI:
+      - ICON: robot.svg
+      - Chat GPT: https://chat.openai.com/
+      - ComfyUI Docs: https://blenderneko.github.io/ComfyUI-docs/
+      - ComfyUI Examples: https://comfyanonymous.github.io/ComfyUI_examples/
+      - SD-WebUI EasyPhoto: https://github.com/aigc-apps/sd-webui-EasyPhoto/blob/main/README_zh-CN.md
 
   - Node / JS / Web:
       - ICON: javascript.svg
@@ -59,6 +53,19 @@ links:
       - simple.css: https://simplecss.org/
       - sakura.css: https://oxal.org/projects/sakura/
       - https://primer.style/
+
+  - Unity:
+      - ICON: unity.svg
+      - Scripting API: https://docs.unity3d.com/cn/2021.3/ScriptReference/index.html
+      - YAML Class ID Reference: https://docs.unity3d.com/cn/current/Manual/ClassIDReference.html
+      - link.xml Assemblies: https://docs.unity3d.com/2021.3/Documentation/ScriptReference/UnityEngine.AIModule.html
+      - Define Directives: https://docs.unity3d.com/Manual/PlatformDependentCompilation.html
+      - http://dotween.demigiant.com/documentation.php
+      - EmmyLua Doc: https://emmylua.github.io
+      - Unity Download Archive: https://unity3d.com/get-unity/download/archive
+      - https://www.uwa4d.com
+      - Unity Editor Icons: https://gist.github.com/masa795/5797164
+      - Android Support Code: https://android.googlesource.com/platform/frameworks/support/+/79398eaefea45e61d839cf4e0534f0eafee70a09/v4/java/android/support/v4
 
   - C / C++ / C#:
       - ICON: cpp.svg
@@ -147,12 +154,8 @@ links:
       - VPS 部署 Hugo: http://www.shashun.site/post/first/
       - MarkDown 语法: https://xianbai.me/learn-md/
       - 涂色线稿: https://www.supercoloring.com/zh-hant
-
-  - Read Later:
-      - ICON: book.svg
       - KCP Protocol: https://github.com/skywind3000/kcp
       - 六边形网格: https://blog.csdn.net/icebergkevin/article/details/50173527
       - https://www.redblobgames.com/grids/hexagons/
       - 移动游戏性能优化通用技法: https://www.cnblogs.com/timlly/p/10463467.html
       - Unity UGUI EventSystem 优化: https://networm.me/2019/10/06/unity-ugui-eventsystem-optimization/
-      - EasyPhoto: https://github.com/aigc-apps/sd-webui-EasyPhoto/blob/main/README_zh-CN.md
