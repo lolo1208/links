@@ -16,6 +16,8 @@ links:
       - ComfyUI Docs: https://blenderneko.github.io/ComfyUI-docs/
       - ComfyUI Examples: https://comfyanonymous.github.io/ComfyUI_examples/
       - SD-WebUI EasyPhoto: https://github.com/aigc-apps/sd-webui-EasyPhoto/blob/main/README_zh-CN.md
+      - 长宽比例换算: https://www.shejidaren.com/examples/tools/aspect/index.html
+      - 科学计数转十进制: https://iconvert.org/calculate/notation/2.3e-4
 
   - Node / JS / Web:
       - ICON: javascript.svg
@@ -123,7 +125,6 @@ links:
 
   - Online Tools:
       - ICON: toolbox.svg
-      - 科学计数转十进制: https://iconvert.org/calculate/notation/2.3e-4
       - PNG 添加纯色背景: https://uutool.cn/png-bg/
       - JSON Viewer: http://jsonviewer.stack.hu
       - JSON Crack: https://jsoncrack.com/editor
