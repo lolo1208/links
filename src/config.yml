@@ -13,6 +13,7 @@ links:
   - AI:
       - ICON: robot.svg
       - Chat GPT: https://chat.openai.com/
+      - Civitai: https://civitai.com/
       - ComfyUI Docs: https://blenderneko.github.io/ComfyUI-docs/
       - ComfyUI Examples: https://comfyanonymous.github.io/ComfyUI_examples/
       - SD-WebUI EasyPhoto: https://github.com/aigc-apps/sd-webui-EasyPhoto/blob/main/README_zh-CN.md
