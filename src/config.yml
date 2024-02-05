@@ -21,6 +21,7 @@ links:
       - SD Prompts: http://sd.firstool.online/
       - 长宽比例换算: https://www.shejidaren.com/examples/tools/aspect/index.html
       - 科学计数转十进制: https://iconvert.org/calculate/notation/2.3e-4
+      - WD14 Tagger: https://huggingface.co/spaces/SmilingWolf/wd-v1-4-tags
 
   - Node / JS / Web:
       - ICON: javascript.svg
@@ -100,7 +101,6 @@ links:
       - 阿里云盘搜索: https://alipanx.com/
       - UP 云搜: https://www.upyunso.com/
       - https://aliyun.panpanr.com/
-      - 网盘小站: https://wpxz.org/
       - 霸王龙压制组: https://t-rex.tzfile.com/
       - YYDS: https://yyds.fans/index
       - K-POP MP3: http://ilkpop.com/index.xhtml
@@ -112,7 +112,6 @@ links:
   - Media Library:
       - ICON: media-library.svg
       - 阿里云盘资源汇总: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=ppx5bp
-      - 侠探杰克 S02: https://www.aliyundrive.com/s/jzov35sByGC/folder/657c05475e0beb34c8b140819c5d41873316e109
 
   - Resources:
       - ICON: resource.svg
@@ -145,6 +144,7 @@ links:
       - 在线运行代码: https://c.runoob.com/compile/14/
       - 国内外测试端口: https://tcp.ping.pe/
       - 企业信用信息公示: https://sh.gsxt.gov.cn/index.html
+      - 正则表达式解析器: https://codegen.bqrdh.com/regexper/
 
   - Bookmark:
       - ICON: bookmark.svg
