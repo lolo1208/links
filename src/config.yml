@@ -65,6 +65,7 @@ links:
       - ICON: unity.svg
       - Scripting API: https://docs.unity3d.com/cn/2021.3/ScriptReference/index.html
       - YAML Class ID Reference: https://docs.unity3d.com/cn/current/Manual/ClassIDReference.html
+      - Rich Text Tags: https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/StyledText.html
       - link.xml Assemblies: https://docs.unity3d.com/2021.3/Documentation/ScriptReference/UnityEngine.AIModule.html
       - Define Directives: https://docs.unity3d.com/Manual/PlatformDependentCompilation.html
       - http://dotween.demigiant.com/documentation.php
