@@ -28,7 +28,7 @@ links:
       - NodeJS API: https://nodejs.cn/api/
       - ECMAScript 6: https://es6.ruanyifeng.com
       - fs-extra: https://juejin.cn/post/6844903641594216455
-      - Day.js: https://dayjs.gitee.io/docs/zh-CN/installation/installation
+      - Day.js: https://day.js.org/zh-CN/
       - cheerio: https://github.com/cheeriojs/cheerio
       - Electron: https://www.electronjs.org/zh/docs/latest
       - Webpack: https://fakefish.github.io/react-webpack-cookbook/Introduction-to-Webpack.html
@@ -116,6 +116,8 @@ links:
       - 我的电视: https://github.com/lizongying/my-tv
       - 八零电子书: https://txt80.cc/
       - 阿里云盘资源汇总: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=ppx5bp
+      - 再见爱人 S04: https://t-rex.tzfile.com/72849.html
+      - 塔尔萨之王 S02: https://t-rex.tzfile.com/70466.html
 
   - Resources:
       - ICON: resource.svg
@@ -135,7 +137,7 @@ links:
       - ICON: toolbox.svg
       - PNG 添加纯色背景: https://uutool.cn/png-bg/
       - JSON Editor: https://jsoneditoronline.org/
-      - 在线运行代码: https://c.runoob.com/compile/14/
+      - 在线运行代码: https://www.bejson.com/runcode/lua/
       - 正则表达式解析器: https://codegen.bqrdh.com/regexper/
       - 时间戳转换: https://tool.lu/timestamp/
       - HexEd: https://hexed.it/
