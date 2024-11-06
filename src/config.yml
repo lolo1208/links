@@ -58,7 +58,7 @@ links:
       - water.css: https://watercss.kognise.dev/
       - simple.css: https://simplecss.org/
       - sakura.css: https://oxal.org/projects/sakura/
-      - https://primer.style/
+      - primer.style: https://primer.style/
 
   - Unity:
       - ICON: unity.svg
@@ -67,7 +67,7 @@ links:
       - Rich Text Tags: https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/StyledText.html
       - link.xml Assemblies: https://docs.unity3d.com/2021.3/Documentation/ScriptReference/UnityEngine.AIModule.html
       - Define Directives: https://docs.unity3d.com/Manual/PlatformDependentCompilation.html
-      - http://dotween.demigiant.com/documentation.php
+      - DOTween Doc: http://dotween.demigiant.com/documentation.php
       - EmmyLua Doc: https://emmylua.github.io
       - Unity Download Archive: https://unity3d.com/get-unity/download/archive
       - https://www.uwa4d.com
@@ -162,7 +162,6 @@ links:
       - UniHacker: https://github.com/tylearymf/UniHacker
       - Unity Download: https://github.com/AlianBlank/download.unity.com
       - MacYY: https://www.macyy.cn/
-      - Jetbrains Eval Reset: https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html
       - MX Player Pro - OsitKP: https://www.423down.com/1300.html
       - MX Player Pro - Universal: https://www.yxssp.com/22999.html
       - Office PLUS: https://www.officeplus.cn/
