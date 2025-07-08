@@ -8,23 +8,23 @@ links:
       - V2EX: https://www.v2ex.com
       - https://zh.wikipedia.org
       - Pinterest: https://pinterest.com
+      - 设计原型素材: https://resourceboy.com/
       - 在线小游戏: https://poki.com
 
   - AI:
       - ICON: robot.svg
-      - 字节 - 豆包: https://www.doubao.com/chat/
+      - Google AI Studio: http://aistudio.google.com/
+      - DeepSeek: https://chat.deepseek.com/
+      - 豆包: https://www.doubao.com/chat/
       - ChatGPT: https://chat.openai.com/
+      - ImageFX: https://labs.google/fx/tools/image-fx/
       - Civitai: https://civitai.com/
       - Hugging Face: https://huggingface.co/
-      - ImageFX: https://labs.google/fx/tools/image-fx/
-      - ComfyUI Docs: https://blenderneko.github.io/ComfyUI-docs/
       - ComfyUI Examples: https://comfyanonymous.github.io/ComfyUI_examples/
-      - SD-WebUI EasyPhoto: https://github.com/aigc-apps/sd-webui-EasyPhoto/blob/main/README_zh-CN.md
       - PromptHero: https://prompthero.com/
       - SD Prompts: http://sd.firstool.online/
       - 长宽比例换算: https://www.shejidaren.com/examples/tools/aspect/index.html
       - 科学计数转十进制: https://iconvert.org/calculate/notation/2.3e-4
-      - WD14 Tagger: https://huggingface.co/spaces/SmilingWolf/wd-v1-4-tags
 
   - Node / JS / Web:
       - ICON: javascript.svg
@@ -92,39 +92,46 @@ links:
       - MacOS Anaconda PyTorch: https://blog.csdn.net/libing_zeng/article/details/96615716
       - Flarum 论坛框架: https://flarum.org/
       - gitignore: https://github.com/github/gitignore
+      - KCP Protocol: https://github.com/skywind3000/kcp
 
   - NAS / VPS:
       - ICON: nas.svg
-      - Synology Archive Download: https://archive.synology.com/download
       - NameSilo: https://www.namesilo.com
       - Cloudflare: https://www.cloudflare.com/zh-cn/
       - Vultr: https://www.vultr.com
       - TencentCloud Lighthouse: https://cloud.tencent.com/product/lighthouse
       - 阿里云: https://www.aliyun.com/
+      - Synology Archive Download: https://archive.synology.com/download
       - https://movie.douban.com/
       - https://www.themoviedb.org
-      - 射手网（伪）: https://assrt.net/
+      - 射手网 - 字幕: https://assrt.net/
+      - 霸王龙压制组: https://t-rex.tzfile.com/
       - https://aliyun.panpanr.com/
       - 阿里云盘搜索: https://alipanx.com/
       - UP 云搜: https://www.upyunso.com/
-      - 霸王龙压制组: https://t-rex.tzfile.com/
       - 七猪: https://7zhu.top/
-      - K-POP MP3: http://ilkpop.com/index.xhtml
-      - My Free MP3: http://tool.liumingye.cn/music/?page=searchPage
-      - 小白盘（MP3）: https://www.xiaobaipan.com/
-      - Soul Courier: https://soulcourier.com/index.php
+      - 小白盘: https://www.xiaobaipan.com/
       - 单机游戏: https://www.aliyundrive.com/s/F15T9aT6wXu
 
   - Media Library:
       - ICON: media-library.svg
-      - 我的电视: https://github.com/lizongying/my-tv
+      - MusicFree: https://github.com/maotoumao/MusicFree
+      - Soul Courier: https://soulcourier.com/index.php
+      - K-POP MP3: http://ilkpop.com/index.xhtml
       - 八零电子书: https://txt80.cc/
-      - 阿里云盘资源汇总: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=ppx5bp
-      - 再见爱人 S04: https://t-rex.tzfile.com/72849.html
-      - 白夜破晓: https://t-rex.tzfile.com/61538.html
+      - 下载视频/封面/音频: https://snapany.com/
+      - 压缩图像: https://www.iloveimg.com/zh-cn
+      - PNG 添加纯色背景: https://uutool.cn/png-bg/
+      - 抠图: https://remove.photos/zh-cn/
+      - 拼图 - Fotor: https://www.fotor.com/photo-editor-app/editor/basic
+      - Shots: https://shots.so
+      - 生成 Favicon: https://realfavicongenerator.net/
+      - 调节音量大小: https://mp3cut.net/cn/change-volume/
+      - 分离人声: https://vocalremover.org/zh/
 
   - Resources:
       - ICON: resource.svg
+      - Google Fonts 中文版: https://www.font.im/
       - 爱给网/模型/资源: https://www.aigei.com/unity3d
       - Desire FX: https://www.desirefx.me/category/3d_models/
       - ByteDance IconPark: https://iconpark.oceanengine.com/official
@@ -133,42 +140,31 @@ links:
       - https://fonts.google.com/icons
       - Material Icons Guide: https://developers.google.com/fonts/docs/material_icons
       - https://remixicon.com/
-      - Google Fonts 中文版: https://www.font.im/
       - https://www.mixamo.com/
       - Steam Workshop Download: http://steamworkshop.download/download/view/1767287078
       - 世界名画: https://www.nbfox.com/
-      - 设计原型素材: https://resourceboy.com/
-      - Shots: https://shots.so
 
   - Online Tools:
       - ICON: toolbox.svg
-      - PNG 添加纯色背景: https://uutool.cn/png-bg/
+      - 文件转换器: https://convertio.co/zh
+      - Easing functions: https://easings.net
       - JSON Editor: https://jsoneditoronline.org/
       - 在线运行代码: https://www.bejson.com/runcode/lua/
       - 正则表达式解析器: https://codegen.bqrdh.com/regexper/
       - 时间戳转换: https://tool.lu/timestamp/
       - HexEd: https://hexed.it/
-      - Easing functions: https://easings.net
-      - 文件转换器: https://convertio.co/zh
-      - 压缩图像: https://www.iloveimg.com/zh-cn
-      - 抠图: https://remove.photos/zh-cn/
-      - Fotor 图像编辑/拼图: https://www.fotor.com/photo-editor-app/editor/basic
-      - 生成 Favicon: https://realfavicongenerator.net/
-      - 分离人声: https://vocalremover.org/zh/
-      - 调节音量大小: https://mp3cut.net/cn/change-volume/
-      - Figma: https://figma.com/
       - draw.io: https://app.diagrams.net/
       - Excalidraw: https://excalidraw.com/
       - 点点数据: https://app.diandian.com/rank/googleplay
-      - 国内外测试端口: https://tcp.ping.pe/
-      - 企业信用信息公示: https://sh.gsxt.gov.cn/index.html
-      - 下载视频/封面/音频: https://snapany.com/
       - 习题生成: https://dayin.page/
       - 自定义纸张: https://paperme.toolooz.com/
       - 租用海外手机号: https://sms-activate.io/
+      - 国内外测试端口: https://tcp.ping.pe/
+      - 企业信用信息公示: https://sh.gsxt.gov.cn/index.html
 
   - Bookmark:
       - ICON: bookmark.svg
+      - 儿童睡前故事: https://beddystories.com/
       - 书栈网: https://www.bookstack.cn
       - Unity Cracking: https://appnee.com/unity
       - UniHacker: https://github.com/tylearymf/UniHacker
@@ -176,13 +172,7 @@ links:
       - MacYY: https://www.macyy.cn/
       - MX Player Pro - OsitKP: https://www.423down.com/1300.html
       - MX Player Pro - Universal: https://www.yxssp.com/22999.html
-      - Office PLUS: https://www.officeplus.cn/
-      - Upgrading to Caddy 2: https://caddyserver.com/docs/v2-upgrade
+      - PPT 模版: https://www.officeplus.cn/
       - VPS 部署 Hugo: http://www.shashun.site/post/first/
-      - 涂色线稿: https://www.supercoloring.com/zh-hant
-      - KCP Protocol: https://github.com/skywind3000/kcp
-      - 六边形网格: https://blog.csdn.net/icebergkevin/article/details/50173527
-      - https://www.redblobgames.com/grids/hexagons/
       - 移动游戏性能优化通用技法: https://www.cnblogs.com/timlly/p/10463467.html
-      - Unity UGUI EventSystem 优化: https://networm.me/2019/10/06/unity-ugui-eventsystem-optimization/
       - 文件夹共享疑难解答: https://zhuanlan.zhihu.com/p/273532876
