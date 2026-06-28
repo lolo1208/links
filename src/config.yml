@@ -13,11 +13,11 @@ links:
 
   - AI:
       - ICON: robot.svg
+      - Google Flow: https://labs.google/fx/zh/tools/flow
       - Google AI Studio: http://aistudio.google.com/
       - DeepSeek: https://chat.deepseek.com/
       - 豆包: https://www.doubao.com/chat/
       - ChatGPT: https://chat.openai.com/
-      - ImageFX: https://labs.google/fx/tools/image-fx/
       - Civitai: https://civitai.com/
       - Hugging Face: https://huggingface.co/
       - ComfyUI Examples: https://comfyanonymous.github.io/ComfyUI_examples/
@@ -29,20 +29,22 @@ links:
       - ICON: javascript.svg
       - NodeJS API: https://nodejs.cn/api/
       - ECMAScript 6: https://es6.ruanyifeng.com
-      - fs-extra: https://juejin.cn/post/6844903641594216455
       - Day.js: https://day.js.org/zh-CN/
       - cheerio: https://github.com/cheeriojs/cheerio
       - Electron: https://www.electronjs.org/zh/docs/latest
-      - Webpack: https://fakefish.github.io/react-webpack-cookbook/Introduction-to-Webpack.html
       - VUE: https://cn.vuejs.org/v2/guide/index.html
-      - Element: https://element.eleme.cn/#/zh-CN/component/installation
-      - Ant Design Vue: https://next.antdv.com/components/overview-cn
       - React: https://zh-hans.reactjs.org/docs/getting-started.html
-      - Material-UI: https://mui.com/zh/getting-started/usage/
+      - Element: https://element.eleme.cn/#/zh-CN/component/installation
       - Semi Design: https://semi.design/zh-CN/start/overview
-      - Fluent UI: https://developer.microsoft.com/zh-CN/fluentui?fabricVer=8#/controls/web
-      - MDUI: https://www.mdui.org/docs/
-      - https://getmdl.io
+      - Ant Design Vue: https://next.antdv.com/components/overview-cn
+      - Material UI: https://mui.com/material-ui/all-components/
+      - Mantine UI: https://mantine.dev/core/package/
+      - Joy UI: https://v7.mui.com/joy-ui/react-button/
+      - Fluent UI: https://react.fluentui.dev/
+      - Shadcn UI: https://ui.shadcn.com/docs/components
+      - Hero UI: https://heroui.com/cn/docs/react/components
+      - daisyUI: https://daisyui.com/components/?lang=zh_hans
+      - Ant Design Mobile: https://mobile.ant.design/zh/components/button
       - WeUI: https://github.com/Tencent/weui
       - Mithril.js: https://mithril.js.org/
       - Xterm.js: https://xtermjs.org/
@@ -73,7 +75,6 @@ links:
       - EmmyLua Doc: https://emmylua.github.io
       - Unity Download Archive: https://unity3d.com/get-unity/download/archive
       - https://www.uwa4d.com
-      - Unity Editor Icons: https://gist.github.com/masa795/5797164
       - Android Support Code: https://android.googlesource.com/platform/frameworks/support/+/79398eaefea45e61d839cf4e0534f0eafee70a09/v4/java/android/support/v4
       - Unity Built in Shaders: https://github.com/TwoTailsGames/Unity-Built-in-Shaders
 
@@ -105,7 +106,7 @@ links:
       - https://www.themoviedb.org
       - 射手网 - 字幕: https://assrt.net/
       - 霸王龙压制组: https://t-rex.tzfile.com/
-      - SeedHub: https://www.seedhub.cc/
+      - SeedHub: https://sidhub.cc/
       - 电影港: https://www.dygang.cc/
       - 云盘电影: https://ypdy.cc/
       - 小白盘: https://www.xiaobaipan.com/
@@ -113,7 +114,8 @@ links:
   - Media Library:
       - ICON: media-library.svg
       - MusicFree: https://github.com/maotoumao/MusicFree
-      - 泡椒音乐: https://pjmp3.de
+      - 1 Music: https://1music.cc/zh-CN
+      - Music DL: https://music.zkkp.nyc.mn/
       - Soul Courier: https://soulcourier.com/index.php
       - K-POP MP3: http://ilkpop.com/index.xhtml
       - 八零电子书: https://txt80.cc/
@@ -153,7 +155,6 @@ links:
       - 自定义纸张: https://paperme.toolooz.com/
       - 租用海外手机号: https://hero-sms.com/
       - 企业信用信息公示: https://sh.gsxt.gov.cn/index.html
-      - versus - 万物皆可比: https://versus.com/cn
 
   - Bookmark:
       - ICON: bookmark.svg
