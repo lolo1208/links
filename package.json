@@ -1,9 +1,11 @@
 {
   "name": "links",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "private": true,
   "description": "links, bookmarks, navigation page",
   "author": "LOLO",
   "license": "MIT",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/lolo1208/links.git"
@@ -12,11 +14,21 @@
     "url": "https://github.com/lolo1208/links/issues"
   },
   "homepage": "https://github.com/lolo1208/links",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test",
+    "build": "node lib/build.js",
+    "build:verbose": "node lib/build.js --verbose",
+    "build:fresh": "node lib/build.js --clean",
+    "clean": "node lib/clean.js",
+    "rebuild": "npm run clean && npm run build"
+  },
   "dependencies": {
-    "clean-css": "^5.2.2",
-    "fs-extra": "^10.0.0",
-    "html-minifier": "^4.0.0",
-    "request": "^2.88.2",
-    "yaml": "^1.10.2"
+    "clean-css": "^5.3.3",
+    "fs-extra": "^11.3.0",
+    "html-minifier-terser": "^7.2.0",
+    "yaml": "^2.5.1"
   }
 }

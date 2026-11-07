@@ -23,9 +23,9 @@ html, body {
     font-feature-settings: 'liga' 0;
 }
 
-/**/
+/* ------------------------------ 左侧导航 ------------------------------ */
 
-.left {
+.sidebar {
     position: absolute;
     width: 240px;
     height: 100%;
@@ -35,7 +35,7 @@ html, body {
     z-index: 1;
 }
 
-.page-title {
+.sidebar__brand {
     display: flex;
     width: 200px;
     height: 50px;
@@ -45,14 +45,36 @@ html, body {
     border-bottom: 1px solid rgba(255, 255, 255, .35);
 }
 
-.left-container {
+.sidebar__brand-icon {
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.sidebar__brand-icon > img {
+    width: 24px;
+    height: 24px;
+    margin: auto;
+    filter: brightness(100);
+}
+
+.sidebar__brand-text {
+    padding-left: 8px;
+    line-height: 50px;
+    width: 135px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.sidebar__nav {
     height: calc(100% - 115px);
     margin: 10px 5px 20px 20px;
     overflow-x: hidden;
     overflow-y: auto;
 }
 
-.nav-container {
+.nav-item {
     display: flex;
     width: 200px;
     height: 50px;
@@ -67,24 +89,24 @@ html, body {
     -o-transition: background-color .15s linear;
 }
 
-.nav-container:hover {
+.nav-item:hover {
     background: rgba(100, 100, 100, .3);
 }
 
-.nav-icon {
+.nav-item__icon {
     width: 50px;
     height: 50px;
     display: flex;
 }
 
-.nav-icon > img {
+.nav-item__icon > img {
     width: 24px;
     height: 24px;
     margin: auto;
     filter: brightness(100);
 }
 
-.nav-text {
+.nav-item__label {
     padding-left: 8px;
     line-height: 50px;
     width: 135px;
@@ -93,9 +115,9 @@ html, body {
     white-space: nowrap;
 }
 
-/**/
+/* ------------------------------ 右侧内容 ------------------------------ */
 
-.right {
+.main {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -105,16 +127,22 @@ html, body {
     background-color: #eee;
 }
 
-.right-container {
+.main__content {
     margin: 20px 5px 20px 20px;
     padding-right: 15px;
     height: calc(100% - 40px);
     overflow-x: hidden;
     overflow-y: auto;
+    scroll-behavior: smooth;
 }
 
+@media (prefers-reduced-motion: reduce) {
+    .main__content {
+        scroll-behavior: auto;
+    }
+}
 
-.group-container {
+.group {
     margin: 40px 0 55px;
     background: #fff;
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .14);
@@ -122,11 +150,11 @@ html, body {
     border-radius: 6px;
 }
 
-.group-title {
+.group__header {
     display: flex;
 }
 
-.group-icon {
+.group__icon {
     display: flex;
     width: 60px;
     height: 60px;
@@ -134,19 +162,19 @@ html, body {
     border-radius: 3px;
 }
 
-.group-icon > img {
+.group__icon > img {
     width: 28px;
     height: 28px;
     margin: auto;
     filter: brightness(100);
 }
 
-.group-text {
+.group__title {
     padding-left: 15px;
     font-size: 18px;
 }
 
-.link-container {
+.link-grid {
     margin-top: 15px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -160,7 +188,7 @@ html, body {
     border-top: 1px solid rgb(229, 229, 229);
 }
 
-.link-item-container {
+.link-item__inner {
     display: flex;
     margin: 7px 5px;
     padding: 5px;
@@ -173,11 +201,11 @@ html, body {
     -o-transition: background-color .15s linear;
 }
 
-.link-item-container:hover {
+.link-item__inner:hover {
     background: rgba(0, 0, 0, 0.04);
 }
 
-.link-item-container > img {
+.link-item__icon {
     width: 24px;
     height: 24px;
     background-color: #fff;
@@ -185,7 +213,7 @@ html, body {
     border: 1px solid rgb(229, 229, 229);
 }
 
-.link-item-container > p {
+.link-item__label {
     margin-left: 10px;
     /*letter-spacing: 1px;*/
     overflow: hidden;
@@ -193,66 +221,63 @@ html, body {
     white-space: nowrap;
 }
 
-/**/
+/* ---------------------------- 分组图标配色 ---------------------------- */
 
-
-.group-icon-green {
+.group__icon--green {
     background: linear-gradient(60deg, #66bb6a, #43a047);
     box-shadow: rgba(0, 0, 0, 0.14) 0 4px 20px 0, rgba(76, 175, 80, 0.4) 0 7px 10px -5px;
 }
 
-.group-icon-orange {
+.group__icon--orange {
     background: linear-gradient(60deg, #ffa726, #fb8c00);
     box-shadow: rgba(0, 0, 0, 0.14) 0 4px 20px 0, rgba(255, 152, 0, 0.4) 0 7px 10px -5px;
 }
 
-.group-icon-red {
+.group__icon--red {
     background: linear-gradient(60deg, #ef5350, #e53935);
     box-shadow: rgba(0, 0, 0, 0.14) 0 4px 20px 0, rgba(244, 67, 54, 0.4) 0 7px 10px -5px;
 }
 
-.group-icon-blue {
+.group__icon--blue {
     background: linear-gradient(60deg, #26c6da, #00acc1);
     box-shadow: rgba(0, 0, 0, 0.14) 0 4px 20px 0, rgba(0, 172, 193, 0.4) 0 7px 10px -5px;
 }
 
-.group-icon-purple {
+.group__icon--purple {
     background: linear-gradient(60deg, #ab47bc, #8e24aa);
     box-shadow: rgba(0, 0, 0, 0.14) 0 4px 20px 0, rgba(156, 39, 176, 0.4) 0 7px 10px -5px;
 }
 
-
-/**/
+/* -------------------------------- 窄屏 -------------------------------- */
 
 @media screen and (max-width: 600px) {
-    .left {
+    .sidebar {
         width: 80px;
     }
 
-    .page-title {
+    .sidebar__brand {
         display: none;
     }
 
-    .left-container {
+    .sidebar__nav {
         margin: 15px;
         height: calc(100% - 15px);
     }
 
-    .nav-container {
+    .nav-item {
         width: 50px;
         margin: 0;
     }
 
-    .nav-text {
+    .nav-item__label {
         display: none;
     }
 
-
-    .right {
+    .main {
         left: 80px;
     }
 
-    .link-container {
+    .link-grid {
         grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     }
 }

@@ -5,6 +5,7 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no"/>
     <title>{{title}}</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <link rel="stylesheet" type="text/css" href="styles.css"/>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -18,20 +19,19 @@
     </script>
 </head>
 <body>
-<div class="left">
-    <div class="page-title">
-        <p class="nav-icon"><img src="icon/link.svg"/></p>
-        <p class="nav-text">{{title}}</p>
+<aside class="sidebar">
+    <div class="sidebar__brand">
+        <span class="sidebar__brand-icon"><img src="icons/link.svg" alt=""></span>
+        <span class="sidebar__brand-text">{{title}}</span>
     </div>
-    <p class="nav-line"></p>
-    <div class="left-container">
-        {{left}}
+    <nav class="sidebar__nav">
+        {{navigation}}
+    </nav>
+</aside>
+<main class="main">
+    <div class="main__content">
+        {{content}}
     </div>
-</div>
-<div class="right">
-    <div class="right-container">
-        {{right}}
-    </div>
-</div>
+</main>
 </body>
 </html>

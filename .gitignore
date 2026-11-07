@@ -1,9 +1,16 @@
+# 依赖
+/node_modules/
+
+# 构建产物与本地缓存
+/dist/
+/.cache/
+/temp/
+/.tmp/
+/src/index.html
+
+# npm 安装生成的锁文件（项目使用 pnpm-lock.yaml）
+/package-lock.json
+
+# 编辑器与操作系统文件
+.idea/
 .DS_Store
-.idea
-
-temp
-dest
-node_modules
-
-package-lock.json
-src/index.html
